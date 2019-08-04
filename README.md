@@ -1,2 +1,2 @@
-# patternprinting
-This repo helps to practice commonly asked question in Campus Drive. 
+# corejava
+This repo constit core java programs
